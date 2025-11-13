@@ -7,7 +7,7 @@ Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Pacifico&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #D8DDEF   ;
+  --primary-color: #44ccff   ;
   --secondary-color: #064789 ;
   --accent1-color: #21D19F;
   --accent2-color: #45B69C;
@@ -21,7 +21,7 @@ Fonts are separated by a & */
   --headline-color-on-color: #064789; /* headlines on a colored background */ 
   --paragraph-color-on-white: #064789; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #064789; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #D8DDEF ;
+  --paragraph-background-color: #44ccff ;
   --nav-link-color: #064789;
   --nav-background-color: #21D19F;
   --nav-hover-link-color: #064789;
